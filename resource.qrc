@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/">
+    <file>topicon.png</file>
+  </qresource>
+</RCC>
